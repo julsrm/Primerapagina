@@ -1,0 +1,17 @@
+body{
+	background-image: url("imagenes/background.png");
+	text-align: center;
+	background-size: cover;
+
+}
+.primera{
+	color: #fff ;
+	font-size: 2em;
+	font-family: helvetica;
+}
+.test-conteiner{
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    border-radius: 50%;
+}
